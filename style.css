@@ -1,0 +1,135 @@
+
+#main{
+    margin: 10px;
+    padding: 70px;
+}
+#cabecera{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 3px 4px rgb(36, 36, 36);
+    position: fixed;
+}
+#cambio{
+    display: flex;
+    justify-content: center;
+    width: 30%;
+    margin: 20px;
+    position: fixed;
+    right: 950px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center;
+    font-size: 30px;
+}
+#Sboton{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin: 20px;
+    position: fixed;
+    right: 10px;
+    font-family:sans-serif;
+    align-items: center;
+    font-size: 30px;
+
+
+}
+#logo{
+    margin: 20px;
+    position: relative;
+    right: 70px
+    
+}
+.pagina2{
+    position: relative;
+    right: 20px;
+    color: red;
+    font-weight: bold;
+    text-decoration: none;
+    align-items: center;
+}
+#Ubi{
+    font-size: 58px;
+    align-items: center;
+    position: relative;
+    left: 70px;
+}
+.borde{
+    border: 2px solid black;
+    border-radius: 30px;
+    padding: 10px;
+}
+.borde1{
+    border: 2px solid black;
+    border-radius: 30px;
+    padding: 10px;
+    color: white;
+    background-color: black;
+}
+#cuerpo{
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+#caja{
+    display: flex;
+    margin: 20px;
+    justify-content: center;
+    align-items: center;
+}
+#texto{
+    text-align: center;
+    justify-content: center;
+    padding: 8%; 
+    width: 18%;
+    height: 8%;
+    background-color: rgb(255, 166, 0);
+    color: white;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.borde2{
+    background-color: red;
+    border-radius: 30px;
+    padding: 8px;
+    box-shadow: 0px 3px 0px rgb(153, 4, 4);
+}
+#secundario{
+    display: flex;
+    justify-content: space-between;
+}
+#minipie{
+ display: flex;
+ position: relative;
+ top: 25px;
+ justify-content: space-between;
+ color: gray;
+}
+#icon{
+    font-size: 25px;
+    color: black;
+    position: relative;
+    top: 18px;
+}
+.libro{
+    position: relative;
+    bottom: 50px;
+}
+.estilo{
+    height: 2px;
+    background-color: rgb(190, 190, 190);
+    border: none;
+    opacity: 0.6;
+}
+.estilo2{
+    height: 2px;
+    background-color: rgb(190, 190, 190);
+    border: none;
+    opacity: 0.3;
+}
+.estilo3{
+    height: 2px;
+    background-color: rgb(190, 190, 190);
+    border: none;
+    opacity: 0.6;
+}
